@@ -1,5 +1,4 @@
 name: 'retail'
-config-version: 2
 profile: 'retail'
 
 models:
