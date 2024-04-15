@@ -1,5 +1,3 @@
-# include/dbt/cosmos_config.py
-
 from cosmos.config import ProfileConfig, ProjectConfig
 from pathlib import Path
 
