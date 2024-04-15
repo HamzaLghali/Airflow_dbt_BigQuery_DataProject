@@ -70,7 +70,7 @@ def retail():
         render_config=RenderConfig(
             load_method=LoadMode.DBT_LS,
             select=['path:models/transform']
-        )
-    )
+        ))
 
+        
 retail()
