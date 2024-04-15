@@ -9,7 +9,6 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
-include/gcp/service_account.json
-include/soda/configuration.yml
-include/dataset/online_retail.csv
+service_account.json
+online_retail.csv
 configuration.yml
