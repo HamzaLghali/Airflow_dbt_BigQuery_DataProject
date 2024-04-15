@@ -1,0 +1,9 @@
+
+
+name: 'retail'
+
+profile: 'retail'
+
+models:
+  retail:
+    materialized: table
