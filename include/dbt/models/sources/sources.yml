@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: retail
-    database: airflow-dbt-bigquery # Put the project id!
+    database: airflow-dbt-bigquery 
 
     tables:
       - name: raw_invoices
