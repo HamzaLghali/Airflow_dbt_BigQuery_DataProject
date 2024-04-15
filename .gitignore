@@ -9,5 +9,5 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
-include\gcp\service_account.json
+include/gcp/service_account.json
 
