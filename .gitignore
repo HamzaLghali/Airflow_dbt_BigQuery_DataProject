@@ -12,3 +12,4 @@ airflow.db
 include/gcp/service_account.json
 include/soda/configuration.yml
 include/dataset/online_retail.csv
+include/soda/configuration.yml
